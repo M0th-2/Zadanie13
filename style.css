@@ -8,4 +8,14 @@ table {
 .color {
     background-color: #00ff00;
 }
+th,
+td {
+    border: 1px #6600ff;
+    padding: 8px 12px;
+
+}
+
+th {
+    background-color: #87cefa;
+}
 }
