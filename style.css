@@ -4,18 +4,19 @@ table {
     
 }
 
-
-.color {
-    background-color: #00ff00;
+table {
+    margin: 20px;
+    border-collapse: collapse;
 }
+
 th,
 td {
-    border: 1px #6600ff;
+    border: 1px;
+    color: #6600ff;
     padding: 8px 12px;
-
+    text-align: center;
 }
 
 th {
-    background-color: #87cefa;
-}
+    background-color: #66ff66;
 }
