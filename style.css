@@ -1,4 +1,4 @@
-}
+
 
 .table {
     margin: 20px;
@@ -17,3 +17,20 @@
 }
 .color {color: #6600ff }
 }
+body { 
+            background-color: #8776f1; /* Tło całej strony */
+            font-family: Courier New, sans-serif; 
+        }
+        .box {
+            width: 20%;
+            margin: 100px auto;
+            border: 1px solid black;
+            padding: 20px;
+            text-align: center;
+            background-color: #ffdaf7; /* Tło prostokąta */
+        }
+        h1 {font-size: 24px;}
+        h2 {font-size: 20px;}
+        h3 { font-size: 18px;}
+        p {font-size: 16px;}
+    </style>
